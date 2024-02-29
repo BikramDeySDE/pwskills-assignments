@@ -1,1 +1,28 @@
+1. A computer is essentially an electronic device that can manipulate information or data. It can store, retrieve, and process this data according to instructions provided by computer programs. These programs allow computers to perform a vast range of tasks, from basic calculations like using a calculator to complex operations involving artificial intelligence.
 
+2. RAM, which stands for Random Access Memory, is essentially your computer's short-term memory. It's a hardware component that temporarily stores data that the central processing unit (CPU) needs to access quickly. Think of it like your desk where you keep things you're currently working on, easily accessible for quick reference or modification.
+
+3. Computer data is stored in two main categories: primary storage and secondary storage.
+
+          I. Primary storage : Also known as main memory, internal memory, or RAM (Random Access Memory).
+          * This is the fastest type of storage, allowing the central processing unit (CPU) to directly access data for immediate use.
+          * It's like your desk where you keep things you're currently working on, readily available for quick reference or modification.
+          * However, RAM is volatile, meaning it loses data when the computer is turned off.
+          
+          II. Secondary storage: Also known as mass storage or external storage.
+          * This is a slower type of storage used to permanently store data that isn't actively needed by the CPU.
+          * It's like filing cabinets where you keep important documents for long-term access.
+          * Examples of secondary storage devices include:
+          * Hard disk drives (HDDs): Use magnetic platters to store data.
+          * Solid-state drives (SSDs): Use flash memory chips to store data and are faster than HDDs.
+          * Removable media: Devices like USB flash drives, external hard drives, CDs, and DVDs.
+
+4. The primary input device used to type text and numbers on a document in a computer system is the keyboard. It is a flat panel with various keys labeled with letters, numbers, symbols, and punctuation marks. By pressing these keys, users can input text and interact with the computer. 
+
+5. Output devices are hardware components that convert information processed by the computer into a human-perceptible form. In simpler terms, they allow us to see, hear, or feel the results of what we do on the computer. Here are some common examples of output devices: Monitor, Printer, Speakers, Headphones, Plotters etc.
+
+6. The device is mouse.
+
+7. The language that is directly understood by computers without a translation program is machine language. It's a set of instructions written in binary code, consisting of only 0s and 1s.
+
+8. Input devices are hardware components that allow users to provide data and control signals to a computer system. They act as a bridge between the user and the computer, enabling us to interact with and manipulate information. Here are some common examples of input devices: Keyboard, Mouse, Joystick etc.
