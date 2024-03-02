@@ -1,0 +1,49 @@
+
+Solved assignment of Fundametals of Java
+
+A programming language is essentially a special set of instructions, like a language, used to communicate with computers and tell them what to do. It allows programmers, also known as developers, to create software applications, websites, mobile apps, and more.
+
+We need programming languages for several crucial reasons:
+
+• Talk to computers: Programming languages translate instructions humans understand into a language computers can execute (binary code). 
+• Automate tasks: Programs can handle repetitive tasks efficiently, saving time and effort. 
+• Build technology: From websites to apps, programming languages are the building blocks of the software we use daily.
+• Develop problem-solving skills: Breaking down problems and creating instructions improves logical thinking and problem-solving abilities. 
+• Customize and control: Programming allows tailoring computer behavior to specific needs and desired outcomes.
+
+Here are some key features of Java:
+
+Simple and Easy to Learn: Java has a relatively simple syntax and clear structure, making it easier to learn compared to some other programming languages.
+
+Object-Oriented: Java is an object-oriented programming language, which means programs are built around objects that represent real-world entities and their properties.
+
+Platform Independent: One of Java's most significant features is its platform independence. Java code is compiled into bytecode, which can run on any platform with a Java Virtual Machine (JVM). This allows developers to "write once, run anywhere."
+
+Secure: Java incorporates various security features like automatic memory management, strong typing, and sandboxing to help prevent security vulnerabilities and make it a good choice for building secure applications.
+
+Robust: Java is designed to be robust and reliable. Features like automatic garbage collection and exception handling help to prevent crashes and errors.
+
+Multithreaded: Java supports multithreading, allowing programs to execute multiple tasks concurrently, improving performance and responsiveness.
+
+In Java, an object is like a mini-program: it bundles data (what it is) and functions (methods)(what it can do) into a single unit. Each object is unique, even if based on the same blueprint. Imagine a Car object with color and model data and accelerate and brake functions.
+
+In Java, a class is:
+Blueprint: A template or blueprint that defines the properties (data) and behaviors (methods) of objects.
+Reusable: It serves as a reusable recipe for creating multiple objects of the same kind.
+Example: A Car class defines the properties (color, model) and methods (accelerate, brake) that all individual car objects will share.
+
+The main() method in Java is the entry point for your program. It's where the execution of your code begins. Here's a breakdown:
+Signature: 
+Public static void main(STring[] args)
+public : Allows the method to be accessed from anywhere.
+static : Doesn't require creating an object of the class to use it.
+void : Indicates the method doesn't return any value.
+String[] argos : An array of strings that can store any command-line arguments passed to your program when you run it.
+What it does: The code inside the main() method is what gets executed when you run your Java program. You can write any valid Java code here, like performing calculations, printing messages, calling other methods, etc.
+
+
+Importance: Every Java program must have a main() method to be executed. Without it, the program won't know where to start.
+
+
+In short: Think of main() as the conductor of your program's orchestra. It sets the stage and tells all the other methods when to play their part.
+
